@@ -1,0 +1,13 @@
+# Default 3567149301@qq.com
+Host github
+User github
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+
+# second 1262381660@qq.com
+Host github
+User github
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa_me
